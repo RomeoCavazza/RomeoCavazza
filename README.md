@@ -41,8 +41,8 @@ I am building a **SaaS platform for TikTok & Instagram OSINT**, and I aim to del
 ---
 
 ## ⏱ WakaTime
-<!-- ici tu pourras insérer ton badge wakatime une fois activé -->
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Namtar-afk&layout=compact)
+[![wakatime](https://wakatime.com/badge/user/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx.svg)](https://wakatime.com/@xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx)
 
 ---
 
