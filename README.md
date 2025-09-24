@@ -4,7 +4,10 @@ With over 4 years of experience in digital transformation, I specialize in desig
 
 I am building a **SaaS platform for TikTok & Instagram OSINT**, and I aim to deliver impactful solutions in agile environments. On this GitHub, you will find some of my creations: **Revolvr Bot**, **Piscine Epitech projects**, **Linux ricing (Hyprland)**, and **no/low-code scraping pipelines**.  
 
-I am currently improving my skills in **Python** (as my main language, with interest in Leptos) and progressively learning **C/C++**. I am also exploring **mathematics, data processing at scale, and machine learning** on embedded boards such as **NVIDIA Jetson Nano, Raspberry Pi 4 Model B, and ST Nucleo-64**.  
+## 🌱 Currently improving in:
+- 🐍 **Python** as main language, with interest in **Leptos**, **C/C++**  
+- 📊 **Maths & Data** – large-scale data processing, AI experimentation  
+- 🤖 **Machine Learning** – prototyping on **NVIDIA Jetson Nano**, **Raspberry Pi 4 Model B**, **ST Nucleo-64** boards 
 
 ---
 
