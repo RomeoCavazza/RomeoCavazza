@@ -31,9 +31,9 @@ I am building a **SaaS platform for TikTok & Instagram OSINT**, and I aim to del
 
 ## 🌟 Highlighted Projects
 
-- [**piscine-epitech**](https://github.com/Namtar-afk/piscine-epitech) Exercises completed during the EPITECH Piscine (Pre-MSc 2025), covering Python, Linux, algorithms, and data structures. A learning repository that reflects my step-by-step progress.
-- [**no-low-code**](https://github.com/Namtar-afk/no-low-code) Simple automation workflows built with Make, n8n, and Airtable, designed to aggregate data (RSS, social media) and explore OSINT applied to no/low-code tools.
-- [**revolver-ai-bot**](https://github.com/Namtar-afk/revolver-ai-bot) – Prototype Slack chatbot for automating internal briefs and strategic monitoring. Exploratory project combining Python, API integrations, and OSINT pipelines.
+- [**piscine-epitech**](https://github.com/Namtar-afk/piscine-epitech) A learning repository that reflects my step-by-step progressduring the EPITECH Piscine (Pre-MSc 2025), covering Python, Linux, algorithms, and data structures.
+- [**no-low-code**](https://github.com/Namtar-afk/no-low-code) Simple automation workflows built with Make, n8n, and Airtable, designed to aggregate data (RSS, social media) and explore OSINT.
+- [**revolver-ai-bot**](https://github.com/Namtar-afk/revolver-ai-bot) – Prototype Slack chatbot for automating internal briefs and strategic monitoring.
 - [**setup-os**](https://github.com/Namtar-afk/setup-os) – Personal Linux configurations (Arch, NixOS, Rocky) including dotfiles and Hyprland ricing. A reproducible setup baseline, continuously refined.
 
 ---
