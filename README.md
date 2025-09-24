@@ -1,3 +1,5 @@
+[![Epitech](https://img.shields.io/badge/Epitech-2025--2028-blue?logo=graduation-cap&style=for-the-badge)](https://www.epitech.eu/formation-alternance/pre-msc-post-bac2/)
+
 # AI & Digital Transformation | DevOps · Data · OSINT 🌠
 
 With over 4 years of experience in digital transformation, I specialize in designing and building robust web solutions with a focus on performance and scalability. Currently, I am pursuing a [Master of Science](https://www.epitech.eu/formation-alternance/pre-msc-post-bac2/) at [Epitech Paris](https://www.epitech.eu/ecole-informatique-paris/) (2025–2028) while contributing to my own projects.  
@@ -19,7 +21,7 @@ I am building a **SaaS platform for TikTok & Instagram OSINT**, and I aim to del
 ---
 
 ## 🛠 Tech Stack
-[![Epitech](https://img.shields.io/badge/Epitech-2025--2028-blue?logo=graduation-cap&style=for-the-badge)](https://www.epitech.eu/formation-alternance/pre-msc-post-bac2/)![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) ![NoSQL](https://img.shields.io/badge/NoSQL-005571?logo=mongodb&logoColor=white) ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?logo=airtable&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) ![NoSQL](https://img.shields.io/badge/NoSQL-005571?logo=mongodb&logoColor=white) ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?logo=airtable&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)  
 
 **Langages & Frameworks** : Python · HTML · CSS · JavaScript · TypeScript · Java (bases) · Notions de Go
 
