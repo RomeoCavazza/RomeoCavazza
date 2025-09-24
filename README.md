@@ -12,7 +12,6 @@ Curieux et pragmatique, j’aime apprendre par la pratique et documenter mes exp
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-romeo--cavazza-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/romeo-cavazza)  
-[![GitHub](https://img.shields.io/badge/GitHub-Namtar--afk-black?logo=github&style=for-the-badge)](https://github.com/Namtar-afk)
 
 ---
 
