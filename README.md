@@ -1,12 +1,10 @@
-# 👋 About Me
+# AI & Digital Transformation | Futur Web Developer ⚡
 
-Futur développeur web en apprentissage intensif (EPITECH – Pré-MSc IA & transformation digitale).  
-Issu d’un parcours en communication (ISCOM), je construis aujourd’hui des projets réels autour de l’IA, du SaaS et des environnements Linux.  
-Curieux et pragmatique, j’aime apprendre par la pratique et documenter mes expérimentations.  
+With over 4 years of experience in digital transformation, I specialize in designing and building robust web solutions with a focus on performance and scalability. Currently, I am pursuing a Master of Science at **Epitech Paris (2025–2028)** while contributing to my own projects.  
 
-- 🎓 **ISCOM → EPITECH** : de la communication digitale à la tech (IA, DevOps, Web).  
-- 💻 **Projets GitHub** : automatisation no/low-code, bot IA, setup Linux, expériences R&D.  
-- 🚀 Objectif : contribuer à des projets SaaS et IA concrets, avec un impact pratique.
+I am building a **SaaS platform for TikTok & Instagram OSINT**, and I aim to deliver impactful solutions in agile environments. On this GitHub, you will find some of my creations: **Revolvr Bot**, **Piscine Epitech projects**, **Linux ricing (Hyprland)**, and **no/low-code scraping pipelines**.  
+
+I am currently improving my skills in **Python** (as my main language, with interest in Leptos) and progressively learning **C/C++**. I am also exploring **mathematics, data processing at scale, and machine learning** on embedded boards such as **NVIDIA Jetson Nano, Raspberry Pi 4 Model B, and ST Nucleo-64**.  
 
 ---
 
