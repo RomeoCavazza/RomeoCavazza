@@ -1,13 +1,13 @@
-# AI & Digital Transformation | Futur Web Developer ⚡
+# AI & Digital Transformation | Futur Web Developer 🌌
 
 With over 4 years of experience in digital transformation, I specialize in designing and building robust web solutions with a focus on performance and scalability. Currently, I am pursuing a Master of Science at **Epitech Paris (2025–2028)** while contributing to my own projects.  
 
 I am building a **SaaS platform for TikTok & Instagram OSINT**, and I aim to deliver impactful solutions in agile environments. On this GitHub, you will find some of my creations: **Revolvr Bot**, **Piscine Epitech projects**, **Linux ricing (Hyprland)**, and **no/low-code scraping pipelines**.  
 
-## 💡 Currently improving in:
-- 🐍 **Python** as main language, with interest in **Leptos**, **C/C++**  
-- 📊 **Maths & Data** – large-scale data processing, AI experimentation  
-- 🤖 **Machine Learning** – prototyping on **NVIDIA Jetson Nano**, **Raspberry Pi 4 Model B**, **ST Nucleo-64** boards 
+## 🧪 Currently improving in:
+⚙️ Python as main language, with growing interest in C/C++ and Rust
+👩‍💻 OSINT & SaaS automation – data collection, integration, and low-code pipelines
+📡 DevOps & Databases – Docker, CI/CD basics, SQL/NoSQL fundamentals
 
 ---
 
@@ -29,7 +29,7 @@ I am building a **SaaS platform for TikTok & Instagram OSINT**, and I aim to del
 
 ---
 
-## 🌟 Highlighted Projects
+## 🗂️ Highlighted Projects
 
 - [**piscine-epitech**](https://github.com/Namtar-afk/piscine-epitech) A learning repository that reflects my step-by-step progressduring the EPITECH Piscine (Pre-MSc 2025), covering Python, Linux, algorithms, and data structures.
 - [**no-low-code**](https://github.com/Namtar-afk/no-low-code) Simple automation workflows built with Make, n8n, and Airtable, designed to aggregate data (RSS, social media) and explore OSINT.
@@ -44,6 +44,6 @@ I am building a **SaaS platform for TikTok & Instagram OSINT**, and I aim to del
 
 ---
 
-## 📊 GitHub Stats
+## 🖥️ GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Namtar-afk&show_icons=true&theme=radical)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Namtar-afk&layout=compact&theme=radical)
