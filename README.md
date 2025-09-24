@@ -42,11 +42,6 @@ I am building a **SaaS platform for TikTok & Instagram OSINT**, and I aim to del
 
 ---
 
-## ⏱ WakaTime
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Namtar-afk&layout=compact)
-
----
-
 ## 🖥️ GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Namtar-afk&show_icons=true&theme=radical)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Namtar-afk&layout=compact&theme=radical)
