@@ -1,6 +1,6 @@
 # AI & Digital Transformation | DevOps · Data · OSINT 🌠
 
-With over 4 years of experience in digital transformation, I specialize in designing and building robust web solutions with a focus on performance and scalability. Currently, I am pursuing a Master of Science at **Epitech Paris (2025–2028)** while contributing to my own projects.  
+With over 4 years of experience in digital transformation, I specialize in designing and building robust web solutions with a focus on performance and scalability. Currently, I am pursuing a Master of Science at [Epitech Paris](https://www.epitech.eu/formation-alternance/pre-msc-post-bac2/) (2025–2028), while contributing to my own projects.  
 
 I am building a **SaaS platform for TikTok & Instagram OSINT**, and I aim to deliver impactful solutions in agile environments. On this GitHub, you will find some of my creations: **Revolvr Bot**, **Piscine Epitech projects**, **Linux ricing (Hyprland)**, and **no/low-code scraping pipelines**.  
 
