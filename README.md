@@ -5,8 +5,10 @@ With over 4 years of experience in digital transformation, I specialize in desig
 I am building a **SaaS platform for TikTok & Instagram OSINT**, and I aim to deliver impactful solutions in agile environments. On this GitHub, you will find some of my creations: **Revolvr Bot**, **Piscine Epitech projects**, **Linux ricing (Hyprland)**, and **no/low-code scraping pipelines**.  
 
 ## 🧪 Currently improving in:
-⚙️ Python as main language, with growing interest in C/C++ and Rust
+⚙️ Python as main language, with growing interest in C/C++
+
 👩‍💻 OSINT & SaaS automation – data collection, integration, and low-code pipelines
+
 📡 DevOps & Databases – Docker, CI/CD basics, SQL/NoSQL fundamentals
 
 ---
