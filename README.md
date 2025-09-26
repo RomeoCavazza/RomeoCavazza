@@ -25,7 +25,7 @@ I am building a **SaaS platform for TikTok & Instagram OSINT**, and I aim to del
 
 **Langages & Frameworks** : Python · HTML · CSS · JavaScript · TypeScript · Java (bases) · Notions de Go
 
-**Cloud & DevOps** : Linux (Arch, NixOS, Rocky) · Docker · Git/GitHub · GitHub Actions · Makefile · systemd
+**Cloud & DevOps** : Linux (Arch, NixOS, Rocky) · Docker · Git/GitHub · Vercel · Makefile · systemd
 
 **Data & Automatisation** : SQLite · MongoDB (notions) · Streamlit · Make.com · n8n · Airtable · API REST
 
