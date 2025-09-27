@@ -18,6 +18,7 @@ I am building a **SaaS platform for TikTok & Instagram OSINT**, and I aim to del
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-romeo--cavazza-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/romeo-cavazza)  
+[![Portfolio]](https://www.romeo-cavazza.dev/#home)
 
 ---
 
