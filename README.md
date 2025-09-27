@@ -41,6 +41,8 @@ I am building a **SaaS platform for TikTok & Instagram OSINT**, and I aim to del
 - [**setup-os**](https://github.com/Namtar-afk/setup-os) – Personal Linux configurations (Arch, NixOS, Rocky) including dotfiles and Hyprland ricing. A reproducible setup baseline, continuously refined.
 
 ---
+⏱️ ## Wakatime
+[![wakatime](https://wakatime.com/badge/user/5e4b28a1-b544-4033-9d4b-0f3cf1a431c8.svg)](https://wakatime.com/@5e4b28a1-b544-4033-9d4b-0f3cf1a431c8)
 
 ## 🖥️ GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Namtar-afk&show_icons=true&theme=radical)  
