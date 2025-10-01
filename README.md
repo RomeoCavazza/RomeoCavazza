@@ -36,10 +36,10 @@ I am building a **SaaS platform for TikTok & Instagram OSINT**, and I aim to del
 
 ## 🗂️ Highlighted Projects
 
-- [**piscine-epitech**](https://github.com/Namtar-afk/piscine-epitech) A learning repository that reflects my step-by-step progressduring the EPITECH Piscine (Pre-MSc 2025), covering Python, Linux, algorithms, and data structures.
-- [**no-low-code**](https://github.com/Namtar-afk/no-low-code) Simple automation workflows built with Make, n8n, and Airtable, designed to aggregate data (RSS, social media) and explore OSINT.
-- [**revolver-ai-bot**](https://github.com/Namtar-afk/revolver-ai-bot) – Prototype Slack chatbot for automating internal briefs and strategic monitoring.
-- [**setup-os**](https://github.com/Namtar-afk/setup-os) – Personal Linux configurations (Arch, NixOS, Rocky) including dotfiles and Hyprland ricing. A reproducible setup baseline, continuously refined.
+- [**piscine-epitech**](https://github.com/RomeoCavazza/piscine-epitech) A learning repository that reflects my step-by-step progressduring the EPITECH Piscine (Pre-MSc 2025), covering Python, Linux, algorithms, and data structures.
+- [**no-low-code**](https://github.com/RomeoCavazza/no-low-code) Simple automation workflows built with Make, n8n, and Airtable, designed to aggregate data (RSS, social media) and explore OSINT.
+- [**revolver-ai-bot**](https://github.com/RomeoCavazza/revolver-ai-bot) – Prototype Slack chatbot for automating internal briefs and strategic monitoring.
+- [**setup-os**](https://github.com/RomeoCavazza/setup-os) – Personal Linux configurations (Arch, NixOS, Rocky) including dotfiles and Hyprland ricing. A reproducible setup baseline, continuously refined.
 
 ---
 ⏱️ ## Wakatime
@@ -48,5 +48,5 @@ I am building a **SaaS platform for TikTok & Instagram OSINT**, and I aim to del
 <img src="https://wakatime.com/share/@romeocavazza/44dc4854-22cf-48b6-a16e-089d1749ae8f.svg" alt="WakaTime Stats" />
 
 ## 🖥️ GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Namtar-afk&show_icons=true&theme=radical)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Namtar-afk&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RomeoCavazza&show_icons=true&theme=radical)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RomeoCavazza&layout=compact&theme=radical)
