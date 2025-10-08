@@ -1,6 +1,6 @@
 [![Epitech](https://img.shields.io/badge/Epitech-2025--2028-blue?logo=graduation-cap&style=for-the-badge)](https://www.epitech.eu/formation-alternance/pre-msc-post-bac2/)
 
-# AI & Digital Transformation | DevOps · Data · OSINT 🌠
+# AI & Digital Transformation | MLOps · Data · OSINT 🌠
 
 With over 4 years of experience in digital transformation, I specialize in designing and building robust web solutions with a focus on performance and scalability. Currently, I am pursuing a [Master of Science](https://www.epitech.eu/formation-alternance/pre-msc-post-bac2/) at [Epitech Paris](https://www.epitech.eu/ecole-informatique-paris/) while contributing to my own projects.  
 
