@@ -1,4 +1,4 @@
-[![Epitech](https://img.shields.io/badge/Epitech-2025--2028-blue?logo=graduation-cap&style=for-the-badge)](https://www.epitech.eu/formation-alternance/pre-msc-post-bac2/)
+[![Epitech](https://img.shields.io/badge/Epitech-2025--2028-blue?logo=graduation-cap&style=for-the-badge)](https://www.epitech.eu/formation-alternance/pre-msc-post-bac2/) 
 
 # AI & Digital Transformation | DevOps · Data · OSINT 🌠
 
