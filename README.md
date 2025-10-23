@@ -1,17 +1,15 @@
-[![Epitech](https://img.shields.io/badge/Epitech-2025--2028-blue?logo=graduation-cap&style=for-the-badge)](https://www.epitech.eu/formation-alternance/pre-msc-post-bac2/)
+With over 4 years of experience in digital strategy and automation, I now focus on **AI-powered software engineering** — building scalable systems that connect data, intelligence, and design.  
 
-# AI & Digital Transformation | DevOps · Data · OSINT 🌠
+Currently, I’m pursuing a [Master of Science](https://www.epitech.eu/formation-alternance/pre-msc-post-bac2/) at [Epitech Paris](https://www.epitech.eu/ecole-informatique-paris/), while developing my own products and research projects.  
 
-With over 4 years of experience in digital transformation, I specialize in designing and building robust web solutions with a focus on performance and scalability. Currently, I am pursuing a [Master of Science](https://www.epitech.eu/formation-alternance/pre-msc-post-bac2/) at [Epitech Paris](https://www.epitech.eu/ecole-informatique-paris/) while contributing to my own projects.  
+I’m building a **SaaS platform for TikTok & Instagram OSINT** — designed to scrape, index, and analyze social media data using **FastAPI**, **PostgreSQL**, and **MeiliSearch**.  
+You’ll also find here some of my other projects: **Revolvr Bot**, **TCO-OS (Linux/NixOS)**, **Piscine Epitech projects**, and experimental **low-code automation pipelines**.  
 
-I am building a **SaaS platform for TikTok & Instagram OSINT**, and I aim to deliver impactful solutions in agile environments. On this GitHub, you will find some of my creations: **Revolvr Bot**, **Piscine Epitech projects**, **Linux ricing (Hyprland)**, and **no/low-code scraping pipelines**.  
-
-## 🧪 Currently improving in:
-⚙️ Python as main language, with growing interest in C/C++
-
-👩‍💻 OSINT & SaaS automation – data collection, integration, and low-code pipelines 
-
-📡 DevOps & Databases – Docker, CI/CD basics, SQL/NoSQL fundamentals
+## 🚀 Currently focusing on
+🧠 **AI & Backend Engineering** — FastAPI, LangChain, MeiliSearch, data pipelines  
+⚙️ **DevOps & OS** — Docker, NixOS, CI/CD, reproducible environments  
+📡 **OSINT & SaaS Automation** — scalable data ingestion, APIs, and analytics  
+🔬 **Formal R&D** — logic, computation, and geometry through Coq/Agda  
 
 ---
 
@@ -45,7 +43,7 @@ I am building a **SaaS platform for TikTok & Instagram OSINT**, and I aim to del
 
 **Langages & Frameworks** : Python · TypeScript · Java · FastAPI · Streamlit · SQLAlchemy · Alembic
 
-**Cloud & DevOps** : Linux (Arch, NixOS, Rocky) · Docker · Git/GitHub · Vercel · Railway · Makefile · systemd · Nix flakes · CI/CD pipelines · IaC
+**Cloud & DevOps** : Linux · Docker · Git/GitHub · Vercel · Railway · Makefile · systemd · Nix flakes
 
 **Data, IA & Machine Learning** : Pandas · NumPy · Scikit-Learn · LangChain · Hugging Face · REST APIs · Redis · PostgreSQL · SQLite · MongoDB 
 
