@@ -22,57 +22,34 @@ I am building a **SaaS platform for TikTok & Instagram OSINT**, and I aim to del
 ---
 
 ## 🛠 Tech Stack
-## 🧠 Tech Stack
-
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=python&logoColor=white)
 ![Alembic](https://img.shields.io/badge/Alembic-0B3A53?logo=alembic&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-![ShadCN/UI](https://img.shields.io/badge/shadcn/ui-000000?logo=react&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer--Motion-EA4C89?logo=framer&logoColor=white)
-
-![MeiliSearch](https://img.shields.io/badge/MeiliSearch-FF5CAA?logo=meilisearch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-0C5A63?logo=openai&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-
-![Make.com](https://img.shields.io/badge/Make.com-6E26E9?logo=make&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-F37B01?logo=n8n&logoColor=white)
-![Airtable](https://img.shields.io/badge/Airtable-18BFFF?logo=airtable&logoColor=white)
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white)
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white)
 
+**Langages & Frameworks** : Python · JavaScript · TypeScript · HTML · CSS · Java · FastAPI · React · Next.js · Streamlit · SQLAlchemy · Alembic
 
-**Langages & Frameworks** : Python · HTML · CSS · JavaScript · TypeScript · Java (bases) · Notions de Go
+**Cloud & DevOps** : Linux (Arch, NixOS, Rocky) · Docker · Git/GitHub · Vercel · Railway Makefile · systemd · Nix flakes · CI/CD pipelines · IaC
 
-**Cloud & DevOps** : Linux (Arch, NixOS, Rocky) · Docker · Git/GitHub · Vercel · Makefile · systemd
+**Data, IA & Machine Learning** : Pandas · NumPy · Scikit-Learn · LangChain · Hugging Face · REST APIs · Redis · PostgreSQL · SQLite · MongoDB
 
-**Data & Automatisation** : SQLite · MongoDB (notions) · Streamlit · Make.com · n8n · Airtable · API REST
-
-**Outils & R&D** : Bash · Hyprland (rice Linux) · Coq/Agda (R&D formelle) · Figma
+**Outils & R&D** : Bash · Make.com · n8n · Airtable · Figma · arXiv Hyprland · Coq / Agda
 
 ---
 
