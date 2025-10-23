@@ -43,13 +43,13 @@ I am building a **SaaS platform for TikTok & Instagram OSINT**, and I aim to del
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white)
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white)
 
-**Langages & Frameworks** : Python · JavaScript · TypeScript · HTML · CSS · Java · FastAPI · React · Next.js · Streamlit · SQLAlchemy · Alembic
+**Langages & Frameworks** : Python · TypeScript · Java · FastAPI · Streamlit · SQLAlchemy · Alembic
 
-**Cloud & DevOps** : Linux (Arch, NixOS, Rocky) · Docker · Git/GitHub · Vercel · Railway Makefile · systemd · Nix flakes · CI/CD pipelines · IaC
+**Cloud & DevOps** : Linux (Arch, NixOS, Rocky) · Docker · Git/GitHub · Vercel · Railway · Makefile · systemd · Nix flakes · CI/CD pipelines · IaC
 
-**Data, IA & Machine Learning** : Pandas · NumPy · Scikit-Learn · LangChain · Hugging Face · REST APIs · Redis · PostgreSQL · SQLite · MongoDB
+**Data, IA & Machine Learning** : Pandas · NumPy · Scikit-Learn · LangChain · Hugging Face · REST APIs · Redis · PostgreSQL · SQLite · MongoDB 
 
-**Outils & R&D** : Bash · Make.com · n8n · Airtable · Figma · arXiv Hyprland · Coq / Agda
+**Outils & R&D** : Bash · arXiv · Hyprland (rice Linux) · Coq / Agda
 
 ---
 
