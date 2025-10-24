@@ -13,7 +13,7 @@ You’ll also find here some of my other projects: **Revolvr Bot**, **TCO-OS (Li
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.romeo-cavazza.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romeo-cavazza/) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/UTYBtZcu)
 
