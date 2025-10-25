@@ -1,3 +1,5 @@
+# Roméo Cavazza
+
 With over 4 years of experience in digital strategy and automation, I now focus on **AI-powered software engineering** — building scalable systems that connect data, intelligence, and design.  
 
 Currently, I’m pursuing a [Master of Science](https://www.epitech.eu/formation-alternance/pre-msc-post-bac2/) at [Epitech Paris](https://www.epitech.eu/ecole-informatique-paris/), while developing my own products and research projects.  
