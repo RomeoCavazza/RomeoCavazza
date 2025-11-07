@@ -55,7 +55,7 @@ You’ll also find here some of my other projects: **Revolvr Bot**, **TCO-OS (Li
 
 ## 🗂️ Highlighted Projects
 
-- [**veyl.io**](https://github.com/RomeoCavazza/revolver-ai-bot) – RAG-based social analytics SaaS leveraging Meta/TikTok APIs with MeiliSearch + pgvector indexing, deployed on Railway/Vercel.
+- [**veyl.io**](https://github.com/RomeoCavazza/revolver-ai-bot) – RAG-based social analytics prototype using Meta/TikTok APIs with MeiliSearch + pgvector on Supabase.
 - [**no-low-code**](https://github.com/RomeoCavazza/no-low-code) Simple automation workflows built with Make, n8n, and Airtable, designed to aggregate data (RSS, social media) and explore OSINT.
 - [**piscine-epitech**](https://github.com/RomeoCavazza/piscine-epitech) A learning repository that reflects my step-by-step progressduring the EPITECH Piscine (Pre-MSc 2025), covering Python, Linux, algorithms, and data structures.
 - [**setup-os**](https://github.com/RomeoCavazza/setup-os) – Personal Linux configurations (Arch, NixOS, Rocky) including dotfiles and Hyprland ricing. A reproducible setup baseline, continuously refined.
