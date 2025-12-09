@@ -61,7 +61,7 @@ I'm building **[veyl.io](https://www.veyl.io)** — a SaaS platform for TikTok &
 
 - [**veyl.io**](https://github.com/RomeoCavazza/veyl.io) — Social intelligence platform with official Meta & TikTok APIs. FastAPI + React + Supabase pgvector. Live at [veyl.io](https://www.veyl.io)
 
-- [**shellgeist**](https://github.com/RomeoCavazza/shellgeist) — shellgeist — a local AI agent that lives in your terminal, editing code and executing commands under human control.
+- [**shellgeist**](https://github.com/RomeoCavazza/shellgeist) — a local AI agent that lives in your terminal, editing code and executing commands under human control.
 
 - [**no-low-code**](https://github.com/RomeoCavazza/no-low-code) — Automation workflows with n8n & Make: TikTok scraping, Gmail AI analysis, multi-source aggregation with OpenAI/Gemini.
 
