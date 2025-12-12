@@ -1,4 +1,4 @@
-# Roméo Cavazza 
+# Roméo Cavazza
 
 With over 4 years of experience in digital strategy and automation, I now focus on **AI-powered software engineering** — building scalable systems that connect data, intelligence, and design.
 
