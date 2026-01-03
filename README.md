@@ -68,14 +68,11 @@ I'm building **[veyl.io](https://www.veyl.io)** — a SaaS platform for TikTok &
 - [**setup-os**](https://github.com/RomeoCavazza/setup-os) — Linux configurations for Arch, NixOS, and Rocky. Hyprland ricing, dotfiles, and reproducible dev environments.
 
 ---
-
 ## ⏱️ Wakatime
 
-![wakatime](https://wakatime.com/badge/user/5e4b28a1-b544-4033-9d4b-0f3cf1a431c8.svg)
-
-<img src="https://wakatime.com/share/@romeocavazza/44dc4854-22cf-48b6-a16e-089d1749ae8f.svg" alt="WakaTime Stats" />
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=romeocavazza)
 
 ## 🖥️ GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RomeoCavazza&show_icons=true&theme=radical)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RomeoCavazza&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RomeoCavazza&show_icons=true&theme=radical&cache_seconds=21600)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RomeoCavazza&layout=compact&theme=radical&cache_seconds=21600)
