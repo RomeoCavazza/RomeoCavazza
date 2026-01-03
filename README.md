@@ -74,4 +74,5 @@ I'm building **[veyl.io](https://www.veyl.io)** — a SaaS platform for TikTok &
 
 ## 🖥️ GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RomeoCavazza&show_icons=true&theme=radical)
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RomeoCavazza&layout=compact&theme=radical)
