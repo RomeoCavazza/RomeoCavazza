@@ -63,18 +63,17 @@
 ## Stats
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=RomeoCavazza&theme=shadow_green&hide_border=true" width="600"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RomeoCavazza&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomeoCavazza&theme=shadow_green&hide_border=true&layout=compact" height="150"/>
-</p>
-
-<p align="center">
   <a href="https://wakatime.com/@romeocavazza"><img src="https://wakatime.com/badge/user/5e4b28a1-b544-4033-9d4b-0f3cf1a431c8.svg" alt="WakaTime"/></a>
 </p>
 
 <p align="center">
   <img src="https://wakatime.com/share/@romeocavazza/44dc4854-22cf-48b6-a16e-089d1749ae8f.svg" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=RomeoCavazza&theme=shadow_green&hide_border=true" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RomeoCavazza&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=true" height="150"/>
 </p>
