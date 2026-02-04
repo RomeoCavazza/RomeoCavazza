@@ -1,78 +1,124 @@
-# Roméo Cavazza
+<p align="center">
+  <img src="asset.png" alt="Roméo Cavazza" width="100%"/>
+</p>
 
-With over 4 years of experience in digital strategy and automation, I now focus on **AI-powered software engineering** — building scalable systems that connect data, intelligence, and design.
+<h1 align="center">Roméo Cavazza</h1>
 
-Currently, I'm pursuing a [Master of Science](https://www.epitech.eu/formation-alternance/pre-msc-post-bac2/) at [Epitech Paris](https://www.epitech.eu/ecole-informatique-paris/), while developing my own products and research projects.  
+<p align="center">
+  <strong>AI-Powered Software Engineering</strong><br/>
+  Building scalable systems that connect data, intelligence, and design.
+</p>
 
-I'm building **[veyl.io](https://www.veyl.io)** — a SaaS platform for TikTok & Instagram intelligence, with official Meta and TikTok API access, powered by **FastAPI**, **PostgreSQL**, and **Supabase pgvector**.
-
-## 🚀 Currently focusing on
-
-🧠 **AI & Backend Engineering** — FastAPI, LangChain, Supabase, data pipelines  
-📡 **OSINT & Data** — Meta/TikTok APIs, scraping, analytics  
-⚙️ **DevOps, Cloud & OS** — Docker, NixOS, CI/CD, reproducible environments  
-🔬 **Formal R&D** — logic, computation, and geometry through Coq/Agda  
-
----
-
-## 🌐 Connect with Me 
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.romeo-cavazza.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romeo-cavazza/) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TKbNuuV4sX)
+<p align="center">
+  <a href="https://www.romeo-cavazza.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/romeo-cavazza/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://discord.gg/TKbNuuV4sX"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="mailto:romeo.cavazza@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+### Currently
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=python&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-0B3A53?logo=alembic&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white)
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4C89?logo=n8n&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
+- MSc Student at [Epitech Paris](https://www.epitech.eu/ecole-informatique-paris/)
+- Building [veyl.io](https://www.veyl.io) — Social intelligence platform with Meta & TikTok APIs
 
-**Langages & Frameworks** : Python · TypeScript · Java · FastAPI · Streamlit · SQLAlchemy · Alembic
+### Focus Areas
 
-**Cloud & DevOps** : Linux · Docker · Git/GitHub · Vercel · Railway · Makefile · systemd · Nix flakes
-
-**Data, IA & Machine Learning** : Pandas · NumPy · Scikit-Learn · LangChain · Hugging Face · REST APIs · Redis · PostgreSQL · Supabase
-
-**Outils & R&D** : n8n · Make · Bash · Airtable · Hyprland (rice Linux) · Coq / Agda
+`AI & Backend` · `OSINT & Data` · `DevOps & Cloud` · `Formal R&D`
 
 ---
 
-## 🗂️ Highlighted Projects
+## Tech Stack
 
-- [**veyl.io**](https://github.com/RomeoCavazza/veyl.io) — Social intelligence platform with official Meta & TikTok APIs. FastAPI + React + Supabase pgvector. Live at [veyl.io](https://www.veyl.io)
+<p align="center">
 
-- [**shellgeist**](https://github.com/RomeoCavazza/shellgeist) — a local AI agent that lives in your terminal, editing code and executing commands under human control.
+**Languages**
 
-- [**no-low-code**](https://github.com/RomeoCavazza/no-low-code) — Automation workflows with n8n & Make: TikTok scraping, Gmail AI analysis, multi-source aggregation with OpenAI/Gemini.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
 
-- [**setup-os**](https://github.com/RomeoCavazza/setup-os) — Linux configurations for Arch, NixOS, and Rocky. Hyprland ricing, dotfiles, and reproducible dev environments.
+**Backend & Data**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**AI & ML**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+**OS & Tools**
+
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+</p>
 
 ---
-## ⏱️ Wakatime
-![wakatime](https://wakatime.com/badge/user/5e4b28a1-b544-4033-9d4b-0f3cf1a431c8.svg)
-<img src="https://wakatime.com/share/@romeocavazza/44dc4854-22cf-48b6-a16e-089d1749ae8f.svg" alt="WakaTime Stats" />
 
-## 🖥️ GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RomeoCavazza&show_icons=true&theme=radical)
+## Projects
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RomeoCavazza&layout=compact&theme=radical)
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [veyl.io](https://github.com/RomeoCavazza/veyl.io) | Social intelligence platform with Meta & TikTok APIs | FastAPI, React, Supabase |
+| [shellgeist](https://github.com/RomeoCavazza/shellgeist) | Local AI agent for terminal-based code editing | Python, LLM |
+| [no-low-code](https://github.com/RomeoCavazza/no-low-code) | Automation workflows with n8n & Make | n8n, OpenAI, Gemini |
+| [setup-os](https://github.com/RomeoCavazza/setup-os) | Linux configs for Arch, NixOS, Rocky | Nix, Hyprland, dotfiles |
+
+---
+
+## Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RomeoCavazza&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomeoCavazza&theme=shadow_green&hide_border=true&layout=compact" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=RomeoCavazza&theme=shadow_green&hide_border=true"/>
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/@romeocavazza"><img src="https://wakatime.com/badge/user/5e4b28a1-b544-4033-9d4b-0f3cf1a431c8.svg" alt="WakaTime"/></a>
+</p>
+
+<p align="center">
+  <img src="https://wakatime.com/share/@romeocavazza/44dc4854-22cf-48b6-a16e-089d1749ae8f.svg" width="500"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://paypal.me/cavazzar"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/></a>
+</p>
