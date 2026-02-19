@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>AI-Powered Software Engineering</strong><br/>
-  Building scalable systems that connect data, intelligence, and design.
+  Turning coffee into scalable AI systems. ☕
 </p>
 
 <p align="center">
