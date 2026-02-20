@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>AI-Powered Software Engineering</strong><br/>
-  Bridging the gap between Low-level Engineering & High-level AI.
+  Bridging the gap between Low-level Engineering & High-level AI. 
 </p>
 
 <p align="center">
