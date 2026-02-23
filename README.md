@@ -2,7 +2,7 @@
   <img src="asset.png" alt="Roméo Cavazza" width="100%"/>
 </p>
 
-<h1 align="center">Roméo Cavazza</h1>
+<h1 align="center">Roméo Cavazza</h1> 
 
 <p align="center">
   <strong>AI-Powered Software Engineering</strong><br/>
