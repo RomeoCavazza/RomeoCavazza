@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="asset.png" alt="Roméo Cavazza" width="100%"/>
+  <img src="banner.mp4" alt="Roméo Cavazza" width="100%"/>
 </p>
 
 <h1 align="center">Roméo Cavazza</h1>
