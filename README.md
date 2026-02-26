@@ -63,9 +63,7 @@
 
 ## WakaTime
 
-<p align="center">
-  <img src="https://wakatime.com/badge/user/5e4b28a1-b544-4033-9d4b-0f3cf1a431c8.svg" alt="wakatime"/>
-</p>
+<img src="https://wakatime.com/badge/user/5e4b28a1-b544-4033-9d4b-0f3cf1a431c8.svg" alt="wakatime"/>
 
 ---
 
