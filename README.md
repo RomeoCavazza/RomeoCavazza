@@ -55,7 +55,16 @@
 ![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
+</p>
+
+---
+
+## WakaTime
+
+<p align="center">
+  <img src="https://wakatime.com/badge/user/5e4b28a1-b544-4033-9d4b-0f3cf1a431c8.svg" alt="wakatime"/>
 </p>
 
 ---
@@ -63,6 +72,5 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://wakatime.com/badge/user/5e4b28a1-b544-4033-9d4b-0f3cf1a431c8.svg" alt="wakatime"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RomeoCavazza&theme=shadow_green&hide_border=true" alt="GitHub Streak" />
 </p>
