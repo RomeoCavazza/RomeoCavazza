@@ -17,8 +17,6 @@
   <a href="https://www.romeo-cavazza.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
----
-
 ## Tech Stack
 
 <p align="center">
@@ -59,13 +57,9 @@
 
 </p>
 
----
-
 ## WakaTime
 
 <img src="https://wakatime.com/badge/user/5e4b28a1-b544-4033-9d4b-0f3cf1a431c8.svg" alt="wakatime"/>
-
----
 
 ## GitHub Stats
 
