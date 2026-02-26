@@ -63,6 +63,6 @@
 ## GitHub Stats
 
 <p align="center">
-  ![wakatime](https://wakatime.com/badge/user/5e4b28a1-b544-4033-9d4b-0f3cf1a431c8.svg)
+  <img src="https://wakatime.com/badge/user/5e4b28a1-b544-4033-9d4b-0f3cf1a431c8.svg" alt="wakatime"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RomeoCavazza&theme=shadow_green&hide_border=true" alt="GitHub Streak" />
 </p>
