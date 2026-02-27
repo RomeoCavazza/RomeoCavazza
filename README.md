@@ -11,7 +11,7 @@
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/cavazzar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.romeo-cavazza.dev)
 
-## Tech Stack
+## Tech Stack 
 
 <p align="center">
 
