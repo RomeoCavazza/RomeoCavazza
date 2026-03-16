@@ -19,8 +19,8 @@
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="40" height="40" hspace="5" alt="GitHub Actions" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" hspace="5" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" hspace="5" alt="Visual Studio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="40" height="40" hspace="5" alt="Neovim" />
   <img src="https://cdn.simpleicons.org/gnuemacs/7F5AB6" width="40" height="40" hspace="5" alt="Emacs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="40" height="40" hspace="5" alt="Neovim" />
 </p>
 
 ## Tech Stack 
