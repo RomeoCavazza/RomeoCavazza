@@ -27,7 +27,7 @@
 <p align="left">
   <img src="https://cdn.simpleicons.org/nixos/5277C3" width="40" height="40" hspace="5" alt="NixOS" />
   <img src="https://cdn.simpleicons.org/archlinux/1793D1" width="40" height="40" hspace="5" alt="Arch Linux" />
-  <img src="./assets/guix.png" width="40" height="40" hspace="5" alt="GNU Guix" />
+  <img src="https://raw.githubusercontent.com/RomeoCavazza/RomeoCavazza/main/assets/guix.png" width="40" height="40" hspace="5" alt="GNU Guix" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" hspace="5" alt="Linux" />
 </p>
 
