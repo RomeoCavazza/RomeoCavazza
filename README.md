@@ -18,15 +18,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" hspace="5" alt="GitHub" />
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="40" height="40" hspace="5" alt="GitHub Actions" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" hspace="5" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" hspace="5" alt="Visual Studio" />
   <img src="https://cdn.simpleicons.org/gnuemacs/7F5AB6" width="40" height="40" hspace="5" alt="Emacs" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="40" height="40" hspace="5" alt="Neovim" />
+</p>
+
+## Operating Systems
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/nixos/5277C3" width="40" height="40" hspace="5" alt="NixOS" />
+  <img src="https://cdn.simpleicons.org/archlinux/1793D1" width="40" height="40" hspace="5" alt="Arch Linux" />
+  <img src="https://cdn.simpleicons.org/gnuguix/333333" width="40" height="40" hspace="5" alt="GNU Guix" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" hspace="5" alt="Linux" />
 </p>
 
 ## Tech Stack 
 
 <p align="left">
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
@@ -63,13 +70,6 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
-![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
-![Flake](https://img.shields.io/badge/Flake-5277C3?style=flat-square&logo=nixos&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=flat-square&logo=archlinux&logoColor=white)
-![Guix](https://img.shields.io/badge/Guix-FFD500?style=flat-square&logo=gnuguix&logoColor=white)
-
 </p>
 
 ## GitHub Stats
