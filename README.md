@@ -17,8 +17,8 @@
 <p align="left">
   <img src="./assets/bash.png" width="40" height="40" alt="Bash" style="margin-right:10px; vertical-align:middle;" />
   <img src="./assets/git.png" width="40" height="40" alt="Git" style="margin-right:10px; vertical-align:middle;" />
-  <img src="./assets/github.png" width="40" height="40" alt="GitHub" style="margin-right:10px; vertical-align:middle;" />
-  <img src="./assets/githubaction.png" width="48" height="48" alt="GitHub Actions" style="margin-right:10px; vertical-align:middle;" />
+  <img src="./assets/github.webp" width="40" height="40" alt="GitHub" style="margin-right:10px; vertical-align:middle;" />
+  <img src="./assets/githubaction.png" width="70" alt="GitHub Actions" style="margin-right:10px; vertical-align:middle;" />
   <img src="./assets/vscode.png" width="40" height="40" alt="VS Code" style="margin-right:10px; vertical-align:middle;" />
   <img src="./assets/emacs.png" width="40" height="40" alt="Emacs" style="margin-right:10px; vertical-align:middle;" />
   <img src="./assets/neovim.svg" width="40" height="40" alt="Neovim" style="vertical-align:middle;" />
