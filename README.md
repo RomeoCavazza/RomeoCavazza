@@ -14,11 +14,24 @@
 
 ## Tools
 
-<p align="left"><img src="./assets/bash.png" width="40" height="40" alt="Bash" /><img src="./assets/git.png" width="40" height="40" alt="Git" /><img src="./assets/github.png" width="40" height="40" alt="GitHub" /><img src="./assets/githubaction.png" width="40" height="40" alt="GitHub Actions" /><img src="./assets/vscode.png" width="40" height="40" alt="VS Code" /><img src="./assets/emacs.png" width="40" height="40" alt="Emacs" /><img src="./assets/neovim.svg" width="40" height="40" alt="Neovim" /></p>
+<p align="left">
+  <img src="./assets/bash.png" width="40" height="40" alt="Bash" style="margin-right:10px; vertical-align:middle;" />
+  <img src="./assets/git.png" width="40" height="40" alt="Git" style="margin-right:10px; vertical-align:middle;" />
+  <img src="./assets/github.png" width="40" height="40" alt="GitHub" style="margin-right:10px; vertical-align:middle;" />
+  <img src="./assets/githubaction.png" width="48" height="48" alt="GitHub Actions" style="margin-right:10px; vertical-align:middle;" />
+  <img src="./assets/vscode.png" width="40" height="40" alt="VS Code" style="margin-right:10px; vertical-align:middle;" />
+  <img src="./assets/emacs.png" width="40" height="40" alt="Emacs" style="margin-right:10px; vertical-align:middle;" />
+  <img src="./assets/neovim.svg" width="40" height="40" alt="Neovim" style="vertical-align:middle;" />
+</p>
 
 ## Operating Systems
 
-<p align="left"><img src="./assets/linux.png" width="40" height="40" alt="Linux" /><img src="./assets/arch.png" width="40" height="40" alt="Arch Linux" /><img src="./assets/nixos.png" width="40" height="40" alt="NixOS" /><img src="./assets/guix.png" width="40" height="40" alt="GNU Guix" /></p>
+<p align="left">
+  <img src="./assets/linux.png" width="40" height="40" alt="Linux" style="margin-right:10px; vertical-align:middle;" />
+  <img src="./assets/arch.png" width="40" height="40" alt="Arch Linux" style="margin-right:10px; vertical-align:middle;" />
+  <img src="./assets/nixos.png" width="40" height="40" alt="NixOS" style="margin-right:10px; vertical-align:middle;" />
+  <img src="./assets/guix.png" width="40" height="40" alt="GNU Guix" style="vertical-align:middle;" />
+</p>
 
 ## Tech Stack
 
