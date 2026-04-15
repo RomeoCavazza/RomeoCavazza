@@ -14,28 +14,11 @@
 
 ## Tools
 
-<table>
-  <tr>
-    <td><img src="./assets/tools/bash.svg" width="40" height="40" alt="Bash" /></td>
-    <td><img src="./assets/tools/git.svg" width="40" height="40" alt="Git" /></td>
-    <td><img src="./assets/tools/github.svg" width="40" height="40" alt="GitHub" /></td>
-    <td><img src="./assets/tools/github-actions.svg" width="40" height="40" alt="GitHub Actions" /></td>
-    <td><img src="./assets/tools/vscode.svg" width="40" height="40" alt="VS Code" /></td>
-    <td><img src="./assets/tools/emacs.svg" width="40" height="40" alt="Emacs" /></td>
-    <td><img src="./assets/tools/neovim.svg" width="40" height="40" alt="Neovim" /></td>
-  </tr>
-</table>
+<p align="left"><img src="./assets/bash.png" width="40" height="40" alt="Bash" /><img src="./assets/git.png" width="40" height="40" alt="Git" /><img src="./assets/github.png" width="40" height="40" alt="GitHub" /><img src="./assets/githubaction.png" width="40" height="40" alt="GitHub Actions" /><img src="./assets/vscode.png" width="40" height="40" alt="VS Code" /><img src="./assets/emacs.png" width="40" height="40" alt="Emacs" /><img src="./assets/neovim.svg" width="40" height="40" alt="Neovim" /></p>
 
 ## Operating Systems
 
-<table>
-  <tr>
-    <td><img src="./assets/os/linux.svg" width="40" height="40" alt="Linux" /></td>
-    <td><img src="./assets/os/archlinux.svg" width="40" height="40" alt="Arch Linux" /></td>
-    <td><img src="./assets/os/nixos.svg" width="40" height="40" alt="NixOS" /></td>
-    <td><img src="./assets/os/guix.png" width="40" height="40" alt="GNU Guix" /></td>
-  </tr>
-</table>
+<p align="left"><img src="./assets/linux.png" width="40" height="40" alt="Linux" /><img src="./assets/arch.png" width="40" height="40" alt="Arch Linux" /><img src="./assets/nixos.png" width="40" height="40" alt="NixOS" /><img src="./assets/guix.png" width="40" height="40" alt="GNU Guix" /></p>
 
 ## Tech Stack
 
@@ -86,6 +69,4 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RomeoCavazza&theme=shadow_green&hide_border=true" alt="GitHub Streak" />
-</p><p align="center">
-  <img src="./assets/banner.gif" alt="Roméo Cavazza" width="100%"/>
 </p>
