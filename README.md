@@ -5,33 +5,29 @@
 ## Contact
 
 <p align="left">
-<a href="mailto:romeo.cavazza@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;<a href="https://www.linkedin.com/in/romeo-cavazza/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;<a href="https://discord.gg/TKbNuuV4sX"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;<a href="https://paypal.me/cavazzar"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>&nbsp;<a href="https://www.romeocavazza.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:romeo.cavazza@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/romeo-cavazza/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://discord.gg/TKbNuuV4sX"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a> <a href="https://paypal.me/cavazzar"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a> <a href="https://www.romeocavazza.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ## Tools
 
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub" /></td>
-    <td><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="40" height="40" alt="GitHub Actions" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" /></td>
-    <td><img src="https://cdn.simpleicons.org/gnuemacs/7F5AB6" width="40" height="40" alt="Emacs" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="40" height="40" alt="Neovim" /></td>
-  </tr>
-</table>
+<div id="tools" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />&nbsp;
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="40" height="40" alt="GitHub Actions" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />&nbsp;
+  <img src="https://cdn.simpleicons.org/gnuemacs/7F5AB6" width="40" height="40" alt="Emacs" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="40" height="40" alt="Neovim" />
+</div>
 
 ## Operating Systems
 
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /></td>
-    <td><img src="https://cdn.simpleicons.org/archlinux/1793D1" width="40" height="40" alt="Arch Linux" /></td>
-    <td><img src="https://cdn.simpleicons.org/nixos/5277C3" width="40" height="40" alt="NixOS" /></td>
-    <td><img src="./assets/guix.png" width="40" height="40" alt="GNU Guix" /></td>
-  </tr>
-</table>
+<div id="os" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />&nbsp;
+  <img src="https://cdn.simpleicons.org/archlinux/1793D1" width="40" height="40" alt="Arch Linux" />&nbsp;
+  <img src="https://cdn.simpleicons.org/nixos/5277C3" width="40" height="40" alt="NixOS" />&nbsp;
+  <img src="./assets/guix.png" width="40" height="40" alt="GNU Guix" />
+</div>
 
 ## Tech Stack
 
